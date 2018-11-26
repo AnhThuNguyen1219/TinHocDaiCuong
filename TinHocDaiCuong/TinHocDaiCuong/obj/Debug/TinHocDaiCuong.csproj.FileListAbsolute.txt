@@ -1,0 +1,12 @@
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
